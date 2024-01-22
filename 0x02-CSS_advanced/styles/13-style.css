@@ -1,0 +1,18 @@
+a[href]:link {
+
+}
+
+a[href]:visited {
+    /* Visited state */
+    font-style: italic;
+}
+
+a[href]:hover {
+    /* Hover state */
+    text-decoration: underline;
+}
+
+a[href]:active {
+    /* Active state */
+    background-color: var(--color-light-grey);
+}
