@@ -1,0 +1,9 @@
+.section-tagline {
+    /* existing styles for .section-tagline go here */
+}
+
+.container {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
